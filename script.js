@@ -634,7 +634,7 @@ const SHOP = {
       "@type": "Bakery",
       name: SHOP.name,
       url: SHOP.siteUrl,
-      image: SHOP.siteUrl + "images/og-image.png",
+      image: SHOP.siteUrl + "images/og-image.jpg",
       logo: SHOP.siteUrl + "images/logo.svg",
       telephone: SHOP.phoneIntl,
       address: {

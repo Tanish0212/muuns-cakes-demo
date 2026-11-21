@@ -17,7 +17,7 @@ No frameworks, no build step, no API keys. Open `index.html` through any static 
 | `style.css` | All styling. Mobile-first, logical properties so Arabic RTL mirrors automatically |
 | `script.js` | The `SHOP` content object (top) + the site logic (bottom, no need to edit) |
 | `poster.html` | Printable A5 counter poster with two inline SVG QR codes (WhatsApp + website) |
-| `images/` | Logo, fine-line illustrations, `og-image.png` (1200×630 share image), touch icon |
+| `images/` | Logo, fine-line illustrations, `og-image.jpg` (1200×630 share image, under 100 KB), touch icon |
 
 ## Editing the content
 
